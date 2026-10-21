@@ -20,19 +20,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+VSG — Viva Sua Grandeza
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A VSG automatiza sua inteligência de vendas com Agentes de IA e Copywriting Estratégico. Nossa missão é devolver o seu tempo, blindar o seu atendimento e escalar o seu faturamento com previsibilidade.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Gemini e Lovable
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O conteúdo eu criei com o auxilio do Gemini, como trabalho com Marketing Digital e sou Copywriter, uso IAs Generativas no dia a dia para aumentar minha produtividade e escalar meu negócio.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Passei a ter um posicionamento estratégico mais assertivo, com base nas minhas habilidades. Consegui otimizar tarefas operacionais que antes demandavam muito do meu tempo. As minhas entregas ganharam muito mais agilidades do que antes. Consegui reduzir significamente o tempo de entrega dos meus serviços. E os meus resultados financeiros aumentaram.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
@@ -40,9 +40,8 @@ Comente sobre o desafio de criar algo 'natty' com IA.
 
 ### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- [Página de Vendas/Site da minha empresa]([/exemplos/E-BOOK.md](https://vivasuagrandeza.lovable.app/))
+
 
 ## Links Interessantes
 
